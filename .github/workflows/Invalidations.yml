@@ -12,4 +12,4 @@ concurrency:
 jobs:
   evaluate-invalidations:
     name: "Evaluate Invalidations"
-    uses: "SciML/.github/.github/workflows/invalidations.yml@v1"
+    uses: "SciML/.github/.github/workflows/invalidations.yml@v1"\n
