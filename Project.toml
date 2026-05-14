@@ -1,7 +1,7 @@
 name = "DifferentialEquations"
 uuid = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
-authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 version = "7.15.0"
+authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 
 [deps]
 BoundaryValueDiffEq = "764a87c0-6b3e-53db-9096-fe964310641d"
@@ -32,7 +32,7 @@ JumpProcesses = "9.6"
 LinearSolve = "2.1.12"
 NonlinearSolve = "3, 4"
 OrdinaryDiffEq = "6.53"
-RecursiveArrayTools = "3"
+RecursiveArrayTools = "3, 4"
 Reexport = "1.0"
 SciMLBase = "2.51"
 SteadyStateDiffEq = "2"
